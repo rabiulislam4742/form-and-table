@@ -1,0 +1,78 @@
+.container{
+    width: 60%;
+    /* border: 2px solid green; */
+    margin: 0 auto;
+}
+
+label{
+    font-size: 25px;
+}
+.fname, .lname, .email, .password{
+    width: 80%;
+    height: 25px;
+    padding: 5px;
+    font-size: 18px;
+}
+legend{
+    font-size: 25px;
+}
+h1{
+    color: rgb(12, 121, 141);
+    font-size: 25px;
+}
+button{
+    width: 10%;
+    background-color: rgba(251, 255, 255, 0.123);
+    color: rgb(12, 121, 141);
+    border-radius: 5px;
+    height: 25px;
+}
+.submit a{
+    text-decoration: none;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+/* .containert{
+    width: 50%;
+    border: 2px solid red;
+    margin: 0 auto;
+} */
+h2{
+    text-align: center;
+    background-color: #167037;
+    padding: 10px;
+    color: #e4e4e4;
+    border: 2px solid rgb(255, 15, 15);
+    display: block;
+}
+table{
+    width: 100%;
+    /* border: 2px solid skyblue; */
+    border-collapse: collapse;
+}
+table td{
+   text-align: center;
+    background-color: aquamarine;
+    border: 1px solid;
+    font-size: 20px;
+}
+table th{
+    background-color: blue;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+.footer p{
+    text-align: center;
+    font-size: 17px;
+    color: #ffffff
+}
+.footer{
+    background-color: #05063D;
+    padding: 1px 0px
+}
+.footer a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 17px;
+}
